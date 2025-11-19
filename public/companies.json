@@ -1,0 +1,224 @@
+[
+    { "id": 4, "name": "Facebook", "location": "California", "industry": "Technology", "logo": "https://logo.clearbit.com/facebook.com" }, 
+    { "id": 5, "name": "Tesla", "location": "Austin, Texas", "industry": "Automotive", "logo": "https://logo.clearbit.com/tesla.com" }, 
+    { "id": 6, "name": "Walmart", "location": "Arkansas", "industry": "Retail", "logo": "https://logo.clearbit.com/walmart.com" }, 
+    { "id": 7, "name": "JPMorgan Chase", "location": "New York", "industry": "Finance", "logo": "https://logo.clearbit.com/jpmorganchase.com" }, 
+    { "id": 8, "name": "Goldman Sachs", "location": "New York", "industry": "Finance", "logo": "https://logo.clearbit.com/goldmansachs.com" }, 
+    { "id": 9, "name": "Netflix", "location": "California", "industry": "Entertainment", "logo": "https://logo.clearbit.com/netflix.com" }, 
+  { "id": 12, "name": "Accenture", "location": "Dublin", "industry": "Consulting", "logo": "https://logo.clearbit.com/accenture.com" }, { "id": 13, "name": "Deloitte", "location": "London", "industry": "Business Consulting", "logo": "https://logo.clearbit.com/deloitte.com" }, { "id": 14, "name": "KPMG", "location": "Netherlands", "industry": "Audit & Finance", "logo": "https://logo.clearbit.com/kpmg.com" }, { "id": 15, "name": "Pfizer", "location": "New York", "industry": "Healthcare", "logo": "https://logo.clearbit.com/pfizer.com" }, { "id": 16, "name": "Johnson & Johnson", "location": "New Brunswick", "industry": "Healthcare", "logo": "https://logo.clearbit.com/jnj.com" }, { "id": 17, "name": "Samsung", "location": "South Korea", "industry": "Electronics", "logo": "https://logo.clearbit.com/samsung.com" }, { "id": 18, "name": "Toyota", "location": "Japan", "industry": "Automotive", "logo": "https://logo.clearbit.com/toyota.com" }, { "id": 19, "name": "FedEx", "location": "Tennessee", "industry": "Logistics", "logo": "https://logo.clearbit.com/fedex.com" }, { "id": 20, "name": "UPS", "location": "Georgia", "industry": "Logistics", "logo": "https://logo.clearbit.com/ups.com" }, { "id": 21, "name": "Intel", "location": "California", "industry": "Semiconductors", "logo": "https://logo.clearbit.com/intel.com" }, { "id": 22, "name": "Oracle", "location": "Texas", "industry": "Software", "logo": "https://logo.clearbit.com/oracle.com" }, { "id": 23, "name": "Coursera", "location": "California", "industry": "Education Technology", "logo": "https://logo.clearbit.com/coursera.org" },{ "id": 1, "name": "Google", "location": "California", "industry": "Technology", "logo": "https://logo.clearbit.com/google.com" }, { "id": 2, "name": "Amazon", "location": "Seattle", "industry": "E-commerce", "logo": "https://logo.clearbit.com/amazon.com" }, { "id": 3, "name": "Microsoft", "location": "Washington", "industry": "Technology", "logo": "https://logo.clearbit.com/microsoft.com" },
+  {
+    "id": 24,
+    "name": "Apple",
+    "location": "California",
+    "industry": "Technology",
+    "logo": "https://logo.clearbit.com/apple.com"
+  },
+  {
+    "id": 25,
+    "name": "Nvidia",
+    "location": "California",
+    "industry": "Technology",
+    "logo": "https://logo.clearbit.com/nvidia.com"
+  },
+  {
+    "id": 26,
+    "name": "HP",
+    "location": "California",
+    "industry": "Technology",
+    "logo": "https://logo.clearbit.com/hp.com"
+  },
+  {
+    "id": 27,
+    "name": "Cisco",
+    "location": "California",
+    "industry": "Technology",
+    "logo": "https://logo.clearbit.com/cisco.com"
+  },
+  {
+    "id": 28,
+    "name": "Salesforce",
+    "location": "California",
+    "industry": "Technology",
+    "logo": "https://logo.clearbit.com/salesforce.com"
+  },
+
+  {
+    "id": 29,
+    "name": "Ford",
+    "location": "Michigan",
+    "industry": "Automotive",
+    "logo": "https://logo.clearbit.com/ford.com"
+  },
+  {
+    "id": 30,
+    "name": "BMW",
+    "location": "Germany",
+    "industry": "Automotive",
+    "logo": "https://logo.clearbit.com/bmw.com"
+  },
+  {
+    "id": 31,
+    "name": "Mercedes-Benz",
+    "location": "Germany",
+    "industry": "Automotive",
+    "logo": "https://logo.clearbit.com/mercedes-benz.com"
+  },
+  {
+    "id": 32,
+    "name": "Honda",
+    "location": "Japan",
+    "industry": "Automotive",
+    "logo": "https://logo.clearbit.com/honda.com"
+  },
+  {
+    "id": 33,
+    "name": "Nissan",
+    "location": "Japan",
+    "industry": "Automotive",
+    "logo": "https://logo.clearbit.com/nissan.com"
+  },
+
+  {
+    "id": 34,
+    "name": "Target",
+    "location": "Minnesota",
+    "industry": "Retail",
+    "logo": "https://logo.clearbit.com/target.com"
+  },
+  {
+    "id": 35,
+    "name": "Costco",
+    "location": "Washington",
+    "industry": "Retail",
+    "logo": "https://logo.clearbit.com/costco.com"
+  },
+  {
+    "id": 36,
+    "name": "IKEA",
+    "location": "Netherlands",
+    "industry": "Retail",
+    "logo": "https://logo.clearbit.com/ikea.com"
+  },
+  {
+    "id": 37,
+    "name": "Home Depot",
+    "location": "Georgia",
+    "industry": "Retail",
+    "logo": "https://logo.clearbit.com/homedepot.com"
+  },
+  {
+    "id": 38,
+    "name": "Best Buy",
+    "location": "Minnesota",
+    "industry": "Retail",
+    "logo": "https://logo.clearbit.com/bestbuy.com"
+  },
+
+  {
+    "id": 39,
+    "name": "Bank of America",
+    "location": "North Carolina",
+    "industry": "Finance",
+    "logo": "https://logo.clearbit.com/bankofamerica.com"
+  },
+  {
+    "id": 40,
+    "name": "Citigroup",
+    "location": "New York",
+    "industry": "Finance",
+    "logo": "https://logo.clearbit.com/citigroup.com"
+  },
+  {
+    "id": 41,
+    "name": "Morgan Stanley",
+    "location": "New York",
+    "industry": "Finance",
+    "logo": "https://logo.clearbit.com/morganstanley.com"
+  },
+  {
+    "id": 42,
+    "name": "HSBC",
+    "location": "London",
+    "industry": "Finance",
+    "logo": "https://logo.clearbit.com/hsbc.com"
+  },
+  {
+    "id": 43,
+    "name": "Visa",
+    "location": "California",
+    "industry": "Finance",
+    "logo": "https://logo.clearbit.com/visa.com"
+  },
+
+  {
+    "id": 44,
+    "name": "Novartis",
+    "location": "Switzerland",
+    "industry": "Healthcare",
+    "logo": "https://logo.clearbit.com/novartis.com"
+  },
+  {
+    "id": 45,
+    "name": "Roche",
+    "location": "Switzerland",
+    "industry": "Healthcare",
+    "logo": "https://logo.clearbit.com/roche.com"
+  },
+  {
+    "id": 46,
+    "name": "Merck",
+    "location": "New Jersey",
+    "industry": "Healthcare",
+    "logo": "https://logo.clearbit.com/merck.com"
+  },
+  {
+    "id": 47,
+    "name": "AstraZeneca",
+    "location": "UK",
+    "industry": "Healthcare",
+    "logo": "https://logo.clearbit.com/astrazeneca.com"
+  },
+  {
+    "id": 48,
+    "name": "Bayer",
+    "location": "Germany",
+    "industry": "Healthcare",
+    "logo": "https://logo.clearbit.com/bayer.com"
+  },
+
+  {
+    "id": 49,
+    "name": "DHL",
+    "location": "Germany",
+    "industry": "Logistics",
+       "logo": "https://logo.clearbit.com/dhl.com"
+  },
+  {
+    "id": 50,
+    "name": "Blue Dart",
+    "location": "India",
+    "industry": "Logistics",
+    "logo": "https://logo.clearbit.com/bluedart.com"
+  },
+  {
+    "id": 51,
+    "name": "Maersk",
+    "location": "Denmark",
+    "industry": "Logistics",
+    "logo": "https://logo.clearbit.com/maersk.com"
+  },
+  {
+    "id": 52,
+    "name": "XPO Logistics",
+    "location": "Connecticut",
+    "industry": "Logistics",
+    "logo": "https://logo.clearbit.com/xpo.com"
+  },
+  {
+    "id": 53,
+    "name": "C.H. Robinson",
+    "location": "Minnesota",
+    "industry": "Logistics",
+    "logo": "https://logo.clearbit.com/chrobinson.com"
+  }
+]

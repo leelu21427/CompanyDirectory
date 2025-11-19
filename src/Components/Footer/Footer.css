@@ -1,0 +1,16 @@
+footer a:hover {
+  color: #0d6efd; /* Bootstrap primary color */
+  text-decoration: underline;
+}
+
+footer input,
+footer textarea {
+  background-color: #343a40;
+  color: #fff;
+  border: 1px solid #495057;
+}
+
+footer input::placeholder,
+footer textarea::placeholder {
+  color: #ced4da;
+}
